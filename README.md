@@ -17,4 +17,6 @@ File 'c:/Repositories/vscode-delete-file-bug/src/main.ts' not found.
     Matched by include pattern './src/**/*.ts' in 'd:/Repositories/test-3/tsconfig.json'
 ```
 
+The only way to make this error disappear is to reload the VSCode widow.
+
 (This happens any time a ".ts" file is deleted, not just if the last file and/or the "main.ts" is deleted.)
