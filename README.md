@@ -9,7 +9,13 @@ git clone git@github.com:Zamiell/vscode-delete-file-bug.git
 code vscode-delete-file-bug
 ```
 
-Once VSCode is open, on the left hand explorer pane, left click on "src" to expand the directory. Then, right click on "main.ts" and click on "Delete". Afterwards, a spurious/erroneous error message will occur in the "Problems" pane:
+Once VSCode is open:
+
+- On the left hand explorer pane, left click on "src" to expand the directory.
+- Then, left click on "main.ts" to open the file in VSCode.
+- Next, on the left hand explorer pane, right-click on "main.ts" and select "Delete".
+
+Afterwards, a spurious/erroneous error message will occur in the "Problems" pane:
 
 ```
 File 'c:/Repositories/vscode-delete-file-bug/src/main.ts' not found.
