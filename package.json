@@ -1,8 +1,5 @@
 {
-  "name": "test-3",
-  "private": true,
-  "license": "ISC",
-  "type": "module",
+  "name": "vscode-delete-file-bug",
   "dependencies": {
     "typescript": "5.8.3"
   }
