@@ -1,0 +1,9 @@
+{
+  "name": "test-3",
+  "private": true,
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "typescript": "5.8.3"
+  }
+}
