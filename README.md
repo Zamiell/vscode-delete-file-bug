@@ -1,5 +1,7 @@
 # vscode-delete-file-bug
 
+Reported to: https://github.com/microsoft/vscode/issues/252117
+
 This repository showcases a bug with the `typescript.tsserver.experimental.enableProjectDiagnostics` setting inside of VSCode.
 
 Steps to reproduce:
